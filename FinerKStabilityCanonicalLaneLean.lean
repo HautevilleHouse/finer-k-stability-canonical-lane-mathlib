@@ -5,3 +5,4 @@ import FinerKStabilityCanonicalLaneLean.SourceDependencies
 import FinerKStabilityCanonicalLaneLean.Formalization
 import FinerKStabilityCanonicalLaneLean.ReviewerBridge
 import FinerKStabilityCanonicalLaneLean.TheoremStatement
+import FinerKStabilityCanonicalLaneLean.MathlibStatement
